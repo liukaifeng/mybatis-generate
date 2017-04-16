@@ -1,0 +1,25 @@
+Class Comment
+/**
+ * @Package: $package$
+ * @ClassName: $classname$
+ * @Description: todo 类描述
+ * @Author: 刘凯峰
+ * @Date: $date$ $time$
+ */
+
+Method Comment
+ /**
+ * @MethodName: $MethodName$
+ * @Description: todo 方法描述
+ * @Author: 刘凯峰
+ * @Date: $Date$ $Time$
+ * @Param: $Param$
+ * @Return: $Return$
+ * @Version V1.0
+ * UpDate Logs:方法变更说明
+ * ****************************************************
+ * Name:
+ * Date:
+ * Description:
+ * *****************************************************
+ */
